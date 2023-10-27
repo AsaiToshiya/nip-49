@@ -1,0 +1,21 @@
+{
+  "name": "nip-49",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@scure/base": "^1.1.3",
+    "@stablelib/random": "^1.0.2",
+    "@stablelib/xchacha20poly1305": "^1.0.1",
+    "scrypt-js": "^3.0.1"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
