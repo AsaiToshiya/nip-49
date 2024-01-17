@@ -1,3 +1,7 @@
+**This repository has moved to https://github.com/AsaiToshiya/learn-nostr/tree/main/nip-49.**
+
+---
+
 # NIP-49
 
 [NIP-49](https://github.com/mikedilger/nips/blob/nip-nn-key-export/49.md) implemented in JavaScript.
